@@ -1,0 +1,31 @@
+"Microwell Replicates (μ, Lag, Doubling)"
+Rep#,μ,Lag,Doubling Time
+1,0.562,4.51,1.23
+2,0.5635,4.54,1.23
+3,0.5607,4.47,1.24
+
+"Large Volume Replicates (μ, Lag, Doubling)"
+Rep#,μ,Lag,Doubling Time
+1,0.5659,4.57,1.22
+2,0.5614,4.61,1.23
+3,0.5699,4.53,1.22
+
+Bland-Altman Analysis
+Parameter,mu
+Bias,-0.0037
+Upper LoA,0.0054
+Lower LoA,-0.0127
+Repeatability Index,0.009
+
+Statistical Summary
+Mu Pvalue,0.3774
+Doubling Corr,-0.9999
+Micro Cv,0.2
+Large Cv,0.62
+Repeatability Micro,0.0011
+Repeatability Large,0.0035
+Bias,-0.0037
+Loa Upper,0.0054
+Loa Lower,-0.0127
+Repeatability Index,0.009
+Ba Param,mu
